@@ -6,7 +6,7 @@
 
     <groupId>ac4y</groupId>
     <artifactId>ac4y-database</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.20260206.1</version>
     <packaging>jar</packaging>
 
     <name>Ac4y Database</name>
@@ -17,7 +17,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <junit.version>4.13.2</junit.version>
-        <ac4y-base.version>1.0.0</ac4y-base.version>
+        <ac4y-base.version>1.1.20260206.2</ac4y-base.version>
     </properties>
 
     <distributionManagement>
